@@ -2,3 +2,4 @@ venv/
 weather.db
 logs/*.log
 __pycache__/
+!reports/mumbai_temperature.png
